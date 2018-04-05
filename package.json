@@ -1,0 +1,18 @@
+{
+  "name": "hacker-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot --progress --colors",
+    "build": "webpack --progress --colors"
+  },
+  "dependencies": {
+    "babel-loader": "^4.3.0",
+    "react": "^0.13.3",
+    "react-hot-loader": "^1.1.7",
+    "react-router": "^0.13.3",
+    "webpack": "1.6.0",
+    "webpack-dev-server": "1.8.1"
+  }
+}
