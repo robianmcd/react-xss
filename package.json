@@ -8,10 +8,10 @@
     "build": "webpack --progress --colors"
   },
   "dependencies": {
-    "babel-loader": "^4.3.0",
+    "babel-loader": "^6.0.0",
     "react": "^0.13.3",
     "react-hot-loader": "^1.1.7",
     "webpack": "1.6.0",
-    "webpack-dev-server": "1.8.1"
+    "webpack-dev-server": "4.0.0"
   }
 }
